@@ -27,3 +27,14 @@ h1 {font-size: 50px;
   margin-left: 10px;
 
 }
+@media(max-width:800px){
+  #form{
+    display:block;
+  }
+  ol{
+     border-right:none;
+  }
+  h1{
+    border-bottom:none;
+  }
+}
