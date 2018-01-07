@@ -1,0 +1,29 @@
+a {text-decoration: none;
+   color:black;
+}
+  ol{margin-top: 0px;
+     border-right: 1px solid gray;
+  }
+    .nav{font-size: 30px;
+    }
+h1 {font-size: 50px;
+    text-align: center;
+    margin-top: 5px;
+    margin-bottom: 0px;
+    border-bottom: 1px solid gray;
+    padding-bottom: : 50px
+    display:block;
+}
+#form {
+  display:grid;
+  grid-template-columns: 170px 1fr;
+
+}
+#form_1{
+  margin-left: 25px;
+
+}
+#form_2{
+  margin-left: 10px;
+
+}
